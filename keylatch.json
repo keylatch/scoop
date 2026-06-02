@@ -1,13 +1,13 @@
 {
-    "version": "1.0.0",
+    "version": "0.9.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/keylatch/keylatch/releases/download/v1.0.0/keylatch_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/keylatch/keylatch/releases/download/v0.9.1/keylatch_0.9.1_windows_amd64.zip",
             "bin": [
                 "keylatchd.exe",
                 "keylatch.exe"
             ],
-            "hash": "2d753b2182417adec890424baf23abfb22ef2d05a1532cdb10481dea3acd9c82"
+            "hash": "8b7238b32976b58e8c7b9edf5899250c66a05c8eb10d5154bf4ebc66820c379c"
         }
     },
     "homepage": "https://github.com/keylatch/keylatch",
